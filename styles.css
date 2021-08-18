@@ -230,6 +230,10 @@ footer .website{
         float: left;
         
     }
+
+    footer{
+        width: fit-content;
+    }
     
 }
 
