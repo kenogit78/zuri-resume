@@ -268,13 +268,27 @@ footer .website{
         
     }
 
-    .details ul {
-        margin: 0 2em;
-    }
+   
     
     .details li{
         padding: 10px 0;
     }
+
+    .details ul{
+        margin: 0;
+    }
+
+    .details li{
+        font-size: 20px;
+        margin: 0px;
+    }
+
+    .experience li {
+        margin:  10px 0 0 0;  
+        padding: 0px;  
+        font-size: 18px;
+    }
+    
 
     footer{
         width: 100%;
